@@ -94,9 +94,15 @@ The code samples use either:
 1) Semantic Kernel Agent Framework + GitHub Models Marketplace. Labelled as (semantic-kernel.ipynb)
 2) AutoGen Framework + GitHub Models Marketplace. Labeled as (autogen.ipynb)
 
-**Requires Azure Subscription**:
+**Requires Azure Subscription (Free Tier Available)**:
 
 3) Azure AI Foundry + Azure AI Agent Service. Labelled as (azureaiagent.ipynb)
+
+> **💡 Tip:** You can use [Azure's free tier](https://azure.microsoft.com/free/?WT.mc_id=academic-105485-koreyst) to test these examples! The free tier includes:
+> - $200 in credits for 30 days to explore any Azure service
+> - Free services including Azure AI Search (free tier with limited features)
+> - Access to Azure AI Foundry portal
+> - Azure OpenAI Service (requires application approval via [this form](https://aka.ms/oai/access))
 
 We encourage you to try out all three types of examples to see which one works best for you.
 
@@ -220,6 +226,19 @@ With your token copied, open the `.env` file in your favorite text editor and pa
 You should now be able to run the code samples of this course.
 
 ## Set Up for Samples using Azure AI Foundry and Azure AI Agent Service
+
+### Getting Started with Azure Free Tier
+
+If you don't have an Azure subscription, you can start with a free account:
+
+1. **Create a free Azure account:** Visit [azure.microsoft.com/free](https://azure.microsoft.com/free/?WT.mc_id=academic-105485-koreyst) to sign up
+2. **What you get:**
+   - $200 credit to use in the first 30 days
+   - 12 months of popular free services
+   - Always-free services including Azure AI Search (free tier)
+3. **Apply for Azure OpenAI access:** Azure OpenAI requires approval. [Apply here](https://aka.ms/oai/access) (typically takes 1-2 business days)
+
+> **Note:** Some Azure AI services may consume your credits, so monitor your usage in the Azure portal.
 
 ### Step 1: Retrieve Your Azure Project Endpoint
 

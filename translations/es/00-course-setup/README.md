@@ -103,9 +103,15 @@ Los ejemplos de código utilizan:
 1) Marco de Agente Semantic Kernel + Marketplace de Modelos de GitHub. Etiquetado como (semantic-kernel.ipynb)
 2) Marco AutoGen + Marketplace de Modelos de GitHub. Etiquetado como (autogen.ipynb)
 
-**Requiere Suscripción a Azure**:
+**Requiere Suscripción a Azure (Capa Gratuita Disponible)**:
 
 3) Azure AI Foundry + Servicio de Agente de Azure AI. Etiquetado como (azureaiagent.ipynb)
+
+> **💡 Consejo:** ¡Puedes usar [la capa gratuita de Azure](https://azure.microsoft.com/free/?WT.mc_id=academic-105485-koreyst) para probar estos ejemplos! La capa gratuita incluye:
+> - $200 en créditos por 30 días para explorar cualquier servicio de Azure
+> - Servicios gratuitos incluyendo Azure AI Search (nivel gratuito con funciones limitadas)
+> - Acceso al portal de Azure AI Foundry
+> - Azure OpenAI Service (requiere aprobación de solicitud mediante [este formulario](https://aka.ms/oai/access))
 
 Te animamos a probar los tres tipos de ejemplos para ver cuál funciona mejor para ti.
 
@@ -229,6 +235,19 @@ Con tu token copiado, abre el archivo `.env` en tu editor de texto favorito y pe
 Ahora deberías poder ejecutar los ejemplos de código de este curso.
 
 ## Configuración para Ejemplos usando Azure AI Foundry y el Servicio de Agente de Azure AI
+
+### Comenzando con la Capa Gratuita de Azure
+
+Si no tienes una suscripción de Azure, puedes comenzar con una cuenta gratuita:
+
+1. **Crea una cuenta gratuita de Azure:** Visita [azure.microsoft.com/free](https://azure.microsoft.com/free/?WT.mc_id=academic-105485-koreyst) para registrarte
+2. **Lo que obtienes:**
+   - $200 en crédito para usar en los primeros 30 días
+   - 12 meses de servicios populares gratuitos
+   - Servicios siempre gratuitos incluyendo Azure AI Search (nivel gratuito)
+3. **Solicita acceso a Azure OpenAI:** Azure OpenAI requiere aprobación. [Solicita aquí](https://aka.ms/oai/access) (típicamente toma 1-2 días hábiles)
+
+> **Nota:** Algunos servicios de Azure AI pueden consumir tus créditos, así que monitorea tu uso en el portal de Azure.
 
 ### Paso 1: Obtén tu Endpoint de Proyecto de Azure
 

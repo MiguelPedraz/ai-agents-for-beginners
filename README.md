@@ -48,7 +48,9 @@ Each lesson in this course includes code examples, which can be found in the cod
 The code example in these exercises, utilize Azure AI Foundry and GitHub Model Catalogs for interacting with Language Models:
 
 - [Github Models](https://aka.ms/ai-agents-beginners/github-models) - Free / Limited
-- [Azure AI Foundry](https://aka.ms/ai-agents-beginners/ai-foundry) - Azure Account Required
+- [Azure AI Foundry](https://aka.ms/ai-agents-beginners/ai-foundry) - Azure Account Required (Free Tier Available)
+
+**💰 Azure Free Tier:** You can test these examples using [Azure's free tier](https://azure.microsoft.com/free/?WT.mc_id=academic-105485-koreyst), which includes $200 in credits for 30 days and free services including Azure OpenAI (with application approval), Azure AI Search (free tier), and Azure AI Foundry portal access.
 
 This course also uses the following AI Agent frameworks and services from Microsoft:
 
