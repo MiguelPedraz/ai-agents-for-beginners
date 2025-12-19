@@ -235,7 +235,7 @@ If you don't have an Azure subscription, you can start with a free account:
 2. **What you get:**
    - $200 credit to use in the first 30 days
    - 12 months of popular free services
-   - Always-free services including Azure AI Search (Free tier)
+   - Always-free services including Azure AI Search (free tier)
 3. **Apply for Azure OpenAI access:** Azure OpenAI requires approval. [Apply here](https://aka.ms/oai/access) (typically takes 1-2 business days)
 
 > **Note:** Some Azure AI services may consume your credits, so monitor your usage in the Azure portal.
